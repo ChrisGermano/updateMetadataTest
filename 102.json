@@ -1,0 +1,30 @@
+{
+  "name": "LittleBoobieGoblins #103",
+  "symbol": "LBG",
+  "image": "https://bafybeib4pib67ehvkzjbmo4dvb6gzelwrxrakbsnjmgm6felcod3folj7y.ipfs.dweb.link/102.png",
+  "description": "weeee aree liiiiittlee booOOOOOBIEE GOOBLIIIIINNnnnssss",
+  "external_url": "https://twitter.com/BoobieGoblins",
+  "seller_fee_basis_points": 690,
+  "collection": {
+    "name": "LittleBoobieGoblins",
+    "family": "LittleBoobieGoblins"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeib4pib67ehvkzjbmo4dvb6gzelwrxrakbsnjmgm6felcod3folj7y.ipfs.dweb.link/102.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Boobie Goblin",
+      "value": "Peepapoop"
+    },
+    {
+      "trait_type": "Updated Metadata",
+      "value": "LBG today, Gmoot tomorrow..."
+    }
+  ]
+}
